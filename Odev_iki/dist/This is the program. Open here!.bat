@@ -1,0 +1,1 @@
+java -jar Odev_iki.jar
