@@ -1,0 +1,14 @@
+istenilen :-
+Java diliyle yazılan R ye basılınca sağa doğru rastgele üretilmiş karakterlerden sırasıyla ekrana basan, ayrıca L ye basılınca ekran sonundan kesen, ve C ye basılınca da tamamen programdan çıkan bir yazılmış program istenmiştir.
+
+öğrendiklerim :-
+Stack, Queue ve hatta kendi özel veri yapısı oluşturarak BİG data denilen her hangi bir şartla uygulanabilmektedir.
+
+Yaptığım :-
+İlk başta 100 adet integer sayı üretip onun değerinde da karakter sınıfından bir 100 adet rastgele karakter ürettim. Sırasıyla linked liste ye ekledim ve R yi kullanıcıdan gelirse stack ta bir eleman yoksa birinci eleman çağırdım ( varsa ondan alırdım ).  Eğer kullanıcı L yi gönderirse kendi oluşturduğum Screen data denilen veri yapısından çıkartıp stack’a ekledim. Fakat kullanıcı C yi gönderirse while döngüsünden çıkmasını sağladım.
+
+eksikler :-
+eksik bıraktığım hiçbir yer yoktur.
+
+zorlandığım kısımlar :-
+zorlandığım kısımları da yok diyebilirm.
